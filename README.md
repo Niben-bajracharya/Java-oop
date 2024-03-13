@@ -1,6 +1,6 @@
 # Java-oop
 
-Niben Bajraharya
+Niben Bajracharya
 
 Bca 3ʳᵈ semester
 
